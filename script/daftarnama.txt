@@ -1,0 +1,57 @@
+Apache
+BlankOn
+Buku Sekolah Elektronik
+Centos
+CPAN
+CRAN
+CTAN
+CYGWIN
+Debian
+Debian Legacy
+Debian Security
+Debian Volatile
+Debian Backports
+Dotdeb
+Emdebian
+Eclipse
+Fedora
+Exim
+Gentoo
+Gentoo Portage
+GNewSense
+GNewSense2
+GNOME
+GNU
+IGOS Nusantara
+IPFire
+KDE
+Kernel Linux
+Linux From Scratch
+Linux Mint
+Linux Mint_Packages
+LibreOffice
+Mandriva
+Manjaro Linux
+MINIX
+Mozilla
+MySQL
+OpenOffice.org
+OpenSUSE
+OpenSUSE Packman
+OpenSUSE Guru
+PCLinuxOS
+Portable Apps
+Proxmox VE
+Proxmox VE Appliances
+Postgresql
+PuTTY
+Python Package Index
+Raspbian
+RaspberryPi Images
+Slackware
+Tiny Core Linux
+Ubuntu
+XBMC
+tesTtEsT bUat NyobA
+testKEDUa kaTaNYA
+tEsTkETiGA lAh biar Ganjil
