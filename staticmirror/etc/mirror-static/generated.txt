@@ -1,0 +1,57 @@
+<li><a href='kambing.ui.ac.id/apache/'>Apache</a> - <a href='ftp://kambing.ui.ac.id/apache/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/blankon/'>BlankOn</a> - <a href='ftp://kambing.ui.ac.id/blankon/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/buku_sekolah_elektronik/'>Buku Sekolah Elektronik</a> - <a href='ftp://kambing.ui.ac.id/buku_sekolah_elektronik/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/centos/'>Centos</a> - <a href='ftp://kambing.ui.ac.id/centos/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/cpan/'>CPAN</a> - <a href='ftp://kambing.ui.ac.id/cpan/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/cran/'>CRAN</a> - <a href='ftp://kambing.ui.ac.id/cran/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/ctan/'>CTAN</a> - <a href='ftp://kambing.ui.ac.id/ctan/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/cygwin/'>CYGWIN</a> - <a href='ftp://kambing.ui.ac.id/cygwin/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/debian/'>Debian</a> - <a href='ftp://kambing.ui.ac.id/debian/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/debian_legacy/'>Debian Legacy</a> - <a href='ftp://kambing.ui.ac.id/debian_legacy/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/debian_security/'>Debian Security</a> - <a href='ftp://kambing.ui.ac.id/debian_security/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/debian_volatile/'>Debian Volatile</a> - <a href='ftp://kambing.ui.ac.id/debian_volatile/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/debian_backports/'>Debian Backports</a> - <a href='ftp://kambing.ui.ac.id/debian_backports/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/dotdeb/'>Dotdeb</a> - <a href='ftp://kambing.ui.ac.id/dotdeb/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/emdebian/'>Emdebian</a> - <a href='ftp://kambing.ui.ac.id/emdebian/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/eclipse/'>Eclipse</a> - <a href='ftp://kambing.ui.ac.id/eclipse/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/fedora/'>Fedora</a> - <a href='ftp://kambing.ui.ac.id/fedora/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/exim/'>Exim</a> - <a href='ftp://kambing.ui.ac.id/exim/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/gentoo/'>Gentoo</a> - <a href='ftp://kambing.ui.ac.id/gentoo/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/gentoo_portage/'>Gentoo Portage</a> - <a href='ftp://kambing.ui.ac.id/gentoo_portage/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/gnewsense/'>GNewSense</a> - <a href='ftp://kambing.ui.ac.id/gnewsense/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/gnewsense2/'>GNewSense2</a> - <a href='ftp://kambing.ui.ac.id/gnewsense2/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/gnome/'>GNOME</a> - <a href='ftp://kambing.ui.ac.id/gnome/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/gnu/'>GNU</a> - <a href='ftp://kambing.ui.ac.id/gnu/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/igos_nusantara/'>IGOS Nusantara</a> - <a href='ftp://kambing.ui.ac.id/igos_nusantara/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/ipfire/'>IPFire</a> - <a href='ftp://kambing.ui.ac.id/ipfire/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/kde/'>KDE</a> - <a href='ftp://kambing.ui.ac.id/kde/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/kernel_linux/'>Kernel Linux</a> - <a href='ftp://kambing.ui.ac.id/kernel_linux/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/linux_from_scratch/'>Linux From Scratch</a> - <a href='ftp://kambing.ui.ac.id/linux_from_scratch/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/linux_mint/'>Linux Mint</a> - <a href='ftp://kambing.ui.ac.id/linux_mint/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/linux_mint_packages/'>Linux Mint_Packages</a> - <a href='ftp://kambing.ui.ac.id/linux_mint_packages/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/libreoffice/'>LibreOffice</a> - <a href='ftp://kambing.ui.ac.id/libreoffice/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/mandriva/'>Mandriva</a> - <a href='ftp://kambing.ui.ac.id/mandriva/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/manjaro_linux/'>Manjaro Linux</a> - <a href='ftp://kambing.ui.ac.id/manjaro_linux/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/minix/'>MINIX</a> - <a href='ftp://kambing.ui.ac.id/minix/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/mozilla/'>Mozilla</a> - <a href='ftp://kambing.ui.ac.id/mozilla/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/mysql/'>MySQL</a> - <a href='ftp://kambing.ui.ac.id/mysql/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/openoffice.org/'>OpenOffice.org</a> - <a href='ftp://kambing.ui.ac.id/openoffice.org/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/opensuse/'>OpenSUSE</a> - <a href='ftp://kambing.ui.ac.id/opensuse/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/opensuse_packman/'>OpenSUSE Packman</a> - <a href='ftp://kambing.ui.ac.id/opensuse_packman/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/opensuse_guru/'>OpenSUSE Guru</a> - <a href='ftp://kambing.ui.ac.id/opensuse_guru/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/pclinuxos/'>PCLinuxOS</a> - <a href='ftp://kambing.ui.ac.id/pclinuxos/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/portable_apps/'>Portable Apps</a> - <a href='ftp://kambing.ui.ac.id/portable_apps/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/proxmox_ve/'>Proxmox VE</a> - <a href='ftp://kambing.ui.ac.id/proxmox_ve/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/proxmox_ve_appliances/'>Proxmox VE Appliances</a> - <a href='ftp://kambing.ui.ac.id/proxmox_ve_appliances/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/postgresql/'>Postgresql</a> - <a href='ftp://kambing.ui.ac.id/postgresql/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/putty/'>PuTTY</a> - <a href='ftp://kambing.ui.ac.id/putty/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/python_package_index/'>Python Package Index</a> - <a href='ftp://kambing.ui.ac.id/python_package_index/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/raspbian/'>Raspbian</a> - <a href='ftp://kambing.ui.ac.id/raspbian/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/raspberrypi_images/'>RaspberryPi Images</a> - <a href='ftp://kambing.ui.ac.id/raspberrypi_images/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/slackware/'>Slackware</a> - <a href='ftp://kambing.ui.ac.id/slackware/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/tiny_core_linux/'>Tiny Core Linux</a> - <a href='ftp://kambing.ui.ac.id/tiny_core_linux/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/ubuntu/'>Ubuntu</a> - <a href='ftp://kambing.ui.ac.id/ubuntu/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/xbmc/'>XBMC</a> - <a href='ftp://kambing.ui.ac.id/xbmc/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/testtest_buat_nyoba/'>tesTtEsT bUat NyobA</a> - <a href='ftp://kambing.ui.ac.id/testtest_buat_nyoba/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/testkedua_katanya/'>testKEDUa kaTaNYA</a> - <a href='ftp://kambing.ui.ac.id/testkedua_katanya/'>FTP</a></li>
+<li><a href='kambing.ui.ac.id/testketiga_lah_biar_ganjil/'>tEsTkETiGA lAh biar Ganjil</a> - <a href='ftp://kambing.ui.ac.id/testketiga_lah_biar_ganjil/'>FTP</a></li>
