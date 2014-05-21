@@ -1,0 +1,7 @@
+<tr><td style='color:black'>1</td><td style='color:black'>Apache</td> <td><a href='kambing.ui.ac.id/apache/'>kambing.ui.ac.id/apache/</a></td> <td><a href='kambing.ui.ac.id/apache/'>kambing.ui.ac.id/apache/</a></td> </tr>
+<tr><td style='color:black'>2</td><td style='color:black'>BlankOn</td> <td><a href='kambing.ui.ac.id/blankon/'>kambing.ui.ac.id/blankon/</a></td> <td><a href='kambing.ui.ac.id/blankon/'>kambing.ui.ac.id/blankon/</a></td> </tr>
+<tr><td style='color:black'>3</td><td style='color:black'>Centos</td> <td><a href='kambing.ui.ac.id/centos/'>kambing.ui.ac.id/centos/</a></td> <td><a href='kambing.ui.ac.id/centos/'>kambing.ui.ac.id/centos/</a></td> </tr>
+<tr><td style='color:black'>4</td><td style='color:black'>CPAN</td> <td><a href='kambing.ui.ac.id/cpan/'>kambing.ui.ac.id/cpan/</a></td> <td><a href='kambing.ui.ac.id/cpan/'>kambing.ui.ac.id/cpan/</a></td> </tr>
+<tr><td style='color:black'>5</td><td style='color:black'>CRAN</td> <td><a href='kambing.ui.ac.id/cran/'>kambing.ui.ac.id/cran/</a></td> <td><a href='kambing.ui.ac.id/cran/'>kambing.ui.ac.id/cran/</a></td> </tr>
+<tr><td style='color:black'>6</td><td style='color:black'>CTAN</td> <td><a href='kambing.ui.ac.id/ctan/'>kambing.ui.ac.id/ctan/</a></td> <td><a href='kambing.ui.ac.id/ctan/'>kambing.ui.ac.id/ctan/</a></td> </tr>
+<tr><td style='color:black'>7</td><td style='color:black'>CYGWIN</td> <td><a href='kambing.ui.ac.id/cygwin/'>kambing.ui.ac.id/cygwin/</a></td> <td><a href='kambing.ui.ac.id/cygwin/'>kambing.ui.ac.id/cygwin/</a></td> </tr>

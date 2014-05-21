@@ -1,0 +1,15 @@
+[main]
+base_url=http://kambing.ui.ac.id
+base_path=/var/www/
+
+[home]
+template='home/home-template.html'
+generator='home/home-generator.sh'
+list='home/home-list.txt'
+
+[mirror]
+template='mirror/mirror-template.html'
+generator='mirror/mirror-generator.sh'
+list='mirror/mirror-list.txt'
+
+
