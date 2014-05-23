@@ -5,9 +5,6 @@ source /etc/mirror-static/config-parser.sh
 ## parse the configuration file
 config_parser "/etc/mirror-static/config";
 config.section.main;
-base=$base_path;
-
-config.section.mirror
 #echo $base_url;
 #echo $base_path
 
@@ -17,8 +14,8 @@ do
 	#lower=`echo ${line,,}`
 	#name=`echo ${lower// /_}`
 	#cho $line
-	name=`echo $line | cut -d ';' -f 1`
-	link=`echo $line | cut -d ';' -f 2`
+	name=`echo $line | cut -d = -f 1`
+	link=`echo $line | cut -d = -f 2`
 	
 	#link="$base_url/$name/"
 	#filelink="$name $link"
@@ -26,9 +23,9 @@ do
 	echo $filelink
 	#echo $num
 	num=$(($num + 1))
-done < $list > /etc/mirror-static/mirror/generated.txt
+done < /etc/mirror-static/mirror/mirror-list.txt > /etc/mirror-static/mirror/generated.txt
 
-result=`sed -e '/<!--generated part starts-->/r/etc/mirror-static/mirror/generated.txt' $template`
+result=`sed -e '/<!--generated part starts-->/r/etc/mirror-static/mirror/generated.txt' /etc/mirror-static/mirror/mirror-template.html`
 
 
-echo $result> $base_path/$output
+echo $result> $base_path/mirror.html

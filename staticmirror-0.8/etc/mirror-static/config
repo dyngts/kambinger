@@ -1,15 +1,35 @@
 [main]
 base_url=http://kambing.ui.ac.id
-base_path=/var/www/
+base_path=/var/www/site
 
 [home]
-template='home/home-template.html'
-generator='home/home-generator.sh'
-list='home/home-list.txt'
+template='/etc/mirror-static/home/home-template.html'
+generator='/etc/mirror-static/home/home-generator.sh'
+list='/etc/mirror-static/home/home-list.txt'
+output='index.html'
 
 [mirror]
-template='mirror/mirror-template.html'
-generator='mirror/mirror-generator.sh'
-list='mirror/mirror-list.txt'
+template='/etc/mirror-static/mirror/mirror-template.html'
+generator='/etc/mirror-static/mirror/mirror-generator.sh'
+list='/etc/mirror-static/mirror/mirror-list.txt'
+output='mirror.html'
+
+[contact]
+template='/etc/mirror-static/contact/contact-template.html'
+generator='/etc/mirror-static/contact/contact-generator.sh'
+contact='kontak@kambing.ui.ac.id'
+output='kontak.html'
+
+[alternative]
+template='/etc/mirror-static/alternative/alternative-template.html'
+generator='/etc/mirror-static/alternative/alternative-generator.sh'
+list='/etc/mirror-static/alternative/alternative-list.txt'
+output='link_alternatif.html'
+
+[faq]
+template='/etc/mirror-static/faq/faq-template.html'
+generator='/etc/mirror-static/faq/faq-generator.sh'
+list='/etc/mirror-static/faq/faq-list.txt'
+output='faq.html'
 
 

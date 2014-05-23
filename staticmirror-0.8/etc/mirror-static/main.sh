@@ -15,8 +15,7 @@ config_parser "/etc/mirror-static/config";
 #echo $base_path
 
 config.section.mirror;
-echo $template;
-echo $generator;
-echo $list;
+source $generator
 
-source /etc/mirror-static/mirror/mirror-generator.sh
+config.section.alternative;
+source $generator
