@@ -1,7 +1,0 @@
-Apache=kambing.ui.ac.id/apache/
-BlankOn=kambing.ui.ac.id/blankon/
-Centos=kambing.ui.ac.id/centos/
-CPAN=kambing.ui.ac.id/cpan/
-CRAN=kambing.ui.ac.id/cran/
-CTAN=kambing.ui.ac.id/ctan/
-CYGWIN=kambing.ui.ac.id/cygwin/
