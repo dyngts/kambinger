@@ -22,3 +22,6 @@ source $generator
 
 config.section.faq;
 source $generator
+
+config.section.contact;
+source $generator

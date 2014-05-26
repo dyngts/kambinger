@@ -4,4 +4,5 @@ Section: devel
 Maintainer: Muhammad Iqbal <iqbalmineraltown@gmail.com> 
 Architecture: all 
 Version: 0.8
-Description: Template for static mirror repository webpage. View README or visit our project at https://github.com/dyngts/kambinger for more info.
+Depends: imagemagick(>=6)
+Description: Template for static mirror repository webpage. View README or visit our project at https://github.com/dyngts/kambinger for more info. Please note that imagemagick (>=6) package is required

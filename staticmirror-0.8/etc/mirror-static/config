@@ -18,6 +18,7 @@ output='mirror.html'
 template='/etc/mirror-static/contact/contact-template.html'
 generator='/etc/mirror-static/contact/contact-generator.sh'
 contact='kontak@kambing.ui.ac.id'
+image='/var/www/img/kontak1.png'
 output='kontak.html'
 
 [alternative]
