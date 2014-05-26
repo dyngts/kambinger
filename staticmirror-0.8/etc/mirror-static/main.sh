@@ -19,3 +19,6 @@ source $generator
 
 config.section.alternative;
 source $generator
+
+config.section.faq;
+source $generator

@@ -5,7 +5,7 @@ source /etc/mirror-static/config-parser.sh
 ## parse the configuration file
 config_parser "/etc/mirror-static/config";
 config.section.main;
-base=$base_path;
+#base=$base_path;
 
 config.section.mirror
 #echo $base_url;

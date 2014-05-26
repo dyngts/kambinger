@@ -1,9 +1,7 @@
 Package: staticmirror
 Priority: optional
 Section: devel
-Installed-Size: 100
 Maintainer: Muhammad Iqbal <iqbalmineraltown@gmail.com> 
-Architecture: i386 
+Architecture: all 
 Version: 0.8
-Depends: libc6 (>= 2.1)
-Description: This is just a test package.
+Description: Template for static mirror repository webpage. View README or visit our project at https://github.com/dyngts/kambinger for more info.

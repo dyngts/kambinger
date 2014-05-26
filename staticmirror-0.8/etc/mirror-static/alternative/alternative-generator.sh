@@ -4,6 +4,8 @@ source /etc/mirror-static/config-parser.sh
 
 ## parse the configuration file
 config_parser "/etc/mirror-static/config";
+config.section.main;
+#base=$base_path;
 config.section.alternative;
 #echo $base_url;
 #echo $base_path
@@ -21,7 +23,7 @@ do
 	#link="$base_url/$name/"
 	#filelink="$name $link"
 	filelink="<tr><td style='color:black'>$num</td> <td style='color:black'>$name</td><td style='color:black'><a href='$link'>http://bebas.vLSM.org/</a></td><td style='color:black'>$info</td></tr>"
-	#echo $filelink
+	echo $filelink
 	#echo $num
 	num=$(($num + 1))
 done < $list > /etc/mirror-static/alternative/generated.txt

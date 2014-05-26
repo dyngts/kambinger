@@ -1,7 +1,0 @@
-bebas.vLSM.org;http://bebas.vLSM.org/;Sumber Dokumen Bebas
-komo.vLSM.org;http://komo.vLSM.org/;
-kuya.vLSM.org;http://kuya.vLSM.org;3WSI
-cacing.vLSM.org;http://cacing.vLSM.org/;Indika.NET
-Mirror EEPIS-ITS;http://kebo.vlsm.org/;
-Mirror Universitas Diponogoro;http://jaran.undip.ac.id/;
-Mirror ITS;http://mirror.its.ac.id/;

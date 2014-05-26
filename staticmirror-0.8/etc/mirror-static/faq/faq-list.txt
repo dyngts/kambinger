@@ -1,0 +1,4 @@
+Bagaimana cara mendapatkan <i>software</i> dalam bentuk CD/DVD?;Silahkan kunjungi situs <a href="http://juragan.kambing.ui.ac.id">Jurangan KAMBING</a>
+Jika ingin donasi PC / Server / Harddisk, harus menghubungi siapa ?;Silahkan hubungi pengelola KAMBING, informasi dapat dilihat <a href="kontak.html">di sini</a>
+Ingin melakukan rsync tapi kok permission denied ?;Untuk alasan kualitas layanan, KAMBING.ui.ac.id harus mencatat IP, sifat organisasi (pribadi/sekolah/perusahaan/etc) dan kontak email Anda. Jadi, silahkan sampaikan data-data Anda ke pengelola KAMBING.
+
