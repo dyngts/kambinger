@@ -1,6 +1,6 @@
 [main]
 base_url=http://kambing.ui.ac.id
-base_path=/var/www/site
+base_path=/var/www/staticmirror/site
 
 [home]
 template='/etc/mirror-static/home/home-template.html'
@@ -18,7 +18,7 @@ output='mirror.html'
 template='/etc/mirror-static/contact/contact-template.html'
 generator='/etc/mirror-static/contact/contact-generator.sh'
 contact='kontak@kambing.ui.ac.id'
-image='/var/www/img/kontak1.png'
+image='/var/www/staticmirror/img/kontak1.png'
 output='kontak.html'
 
 [alternative]

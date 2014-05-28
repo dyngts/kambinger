@@ -10,9 +10,7 @@ source /etc/mirror-static/config-parser.sh
 config_parser "/etc/mirror-static/config";
 
 ## load <my_section> from the ini file
-#config.section.main;
-#echo $base_url;
-#echo $base_path
+## then call the generator of each generated page
 
 config.section.mirror;
 source $generator
