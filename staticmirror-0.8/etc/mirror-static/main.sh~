@@ -12,9 +12,6 @@ config_parser "/etc/mirror-static/config";
 ## load <my_section> from the ini file
 ## then call the generator of each generated page
 
-config.section.home;
-source $generator
-
 config.section.mirror;
 source $generator
 
