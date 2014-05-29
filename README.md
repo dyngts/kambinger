@@ -21,11 +21,12 @@ Package includes:
 
 > config --> global configuration for staticmirror
 in config you may find these variables:
-base_url
-base_path
-template (template page)
-generator (script to generate page)
-output (output file)
+base_url,
+base_path,
+template (template page),
+generator (script to generate page),
+output (output file),
 
 list(list of input; please mind the formatting)
+
 contact(contact text will be converted into image to avoid spams, imagemagick required)
