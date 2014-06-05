@@ -28,4 +28,4 @@ done < $list > /etc/mirror-static/mirror/generated.txt
 
 #write the generated part into template and create new file in base_path
 result=`sed -e '/<!--generated part starts-->/r/etc/mirror-static/mirror/generated.txt' $template`
-echo $result> $base_path/$output
+echo "$result"> $base_path/$output

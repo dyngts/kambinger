@@ -16,4 +16,4 @@ echo $filelink > /etc/mirror-static/contact/generated.txt
 
 #write the generated part into template and create new file in base_path
 result=`sed -e '/<!--generated part starts-->/r/etc/mirror-static/contact/generated.txt' $template`
-echo "$result"> $base_path/$output
+echo $result> $base_path/$output
