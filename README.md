@@ -9,6 +9,11 @@ To build on your own package:
 
 where "staticmirror-ver." is the name of the main folder
 
+Please run 
+
+> generatemirror
+
+for the first time after the installation
 
 This is a static website generator for mirroring purpose.
 Package includes:
